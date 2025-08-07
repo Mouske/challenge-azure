@@ -47,6 +47,7 @@ To trigger the function and insert live data for a station:
 
 ```bash
 curl "https://<your-function-app>.azurewebsites.net/api/liveboard?station=Gent-Sint-Pieters"
+```
 The function returns the number of departures inserted into the database.
 
 ## 🔮 Future Improvements
@@ -62,6 +63,3 @@ The function returns the number of departures inserted into the database.
 - pandas
 - pyodbc
 - azure-functions
-```bash
-curl "https://<your-function-app>.azurewebsites.net/api/liveboard?station=Gent-Sint-Pieters"
-m

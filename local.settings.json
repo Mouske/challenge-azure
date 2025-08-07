@@ -3,7 +3,7 @@
   "Values": {
     "AzureWebJobsStorage": "UseDevelopmentStorage=true",
     "FUNCTIONS_WORKER_RUNTIME": "python",
-    "DB_SERVER": "trainprojectserver2.database.windows.net",
+    "DB_SERVER": "trainproject2.database.windows.net",
     "DB_NAME": "TrainDB2",
     "DB_USER": "azureadmin",
     "DB_PASSWORD": "Elabdellaoui5"
